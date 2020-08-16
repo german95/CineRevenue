@@ -6,3 +6,4 @@ Created on Sun Aug 16 18:11:44 2020
 """
 
 print("hola mundo")
+print("que tal")
